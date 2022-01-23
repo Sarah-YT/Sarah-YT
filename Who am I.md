@@ -1,11 +1,9 @@
 <html>
-<body>
-
-	### 王有婷 
+<body> 
 <div class="con">
 	<div class="b"><h3 align="left">&emsp;</h3>
 	<h3 aligh=left><img src="https://mmbiz.qpic.cn/mmbiz_jpg/icPWTPhuwhKVrR2MU9ziafeLNkMSpibqAApbGzzoBJPWiaXwlvl4yN9LLOaJia9pO0kSXiarT6x6YY2ibPIGYufV9o6rw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width=230></h3>
-	<h2 align="left">You-Ting Wang</h2>
+	<h2 align="left">You-Ting Wang | 王有婷</h2>
 	<h3><b>Education</b></h3>
 	<h3 align="left">Undergraduate in Physical Geography ( 2017-2021 ) </h3>
 	<h3 align="left">&emsp;&emsp; Faculty of Geographical Science | Beijing Normal University</h3>
