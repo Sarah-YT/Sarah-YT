@@ -1,23 +1,6 @@
 <html>
-<head> 
-<title>王有婷</title> 
-</head>
 <body>
 
-<style type="text/css">
-	*{margin:0;padding:0;}
-	.con{width:1500px;height:900px;margin:0 auto;}
-	.con div{width:48%;height:100%;}
-	.a{background:white;float:left;}
-	.b{background:white;float:right;}
-</style>
-
-<style>
-	p{font:  80 17px "仿宋"; line-height:30px; }
-	h1{font:  200 25px "MV Boli";line-height:50px;}
-	h2{font:  100 22px "MV Boli";line-height:40px;}
-	h3{font:  100 18px "Comic Sans MS"; line-height:35px;}
-</style>
 	
 <div class="con">
 	<div class="b"><h3 align="left">&emsp;</h3>
